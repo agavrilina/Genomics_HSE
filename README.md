@@ -1,6 +1,5 @@
 # Higher School of Ecomonics, Department of Applied Mathematics
-## Computational Methods of Genomics
-### Vladimir Schur
+## Computational Methods of Genomics, Vladimir Schur
 
 Description: https://www.hse.ru/en/ma/supmod/courses/292700653.html
 
